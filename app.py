@@ -24,7 +24,7 @@ def define_layout():
     return html.Div([
         # Header com gradiente
         html.Div([
-            html.H1("🏠 Previsão de Preços Imobiliários em São Paulo",
+            html.H1("🏠 Previsão de Preços Imobiliários",
                    style={
                        'text-align': 'center',
                        'color': 'white',
@@ -35,7 +35,7 @@ def define_layout():
                        'font-size': '2.5rem',
                        'text-shadow': '2px 2px 4px rgba(0,0,0,0.3)'
                    }),
-            html.P("Estimar o valor de imóveis com base em dados reais (2023).",
+            html.P("Estimar o valor de imóveis com base em dados reais.",
                   style={
                       'text-align': 'center',
                       'color': 'rgba(255,255,255,0.9)',
@@ -331,4 +331,5 @@ if __name__ == '__main__':
 
     # Executa o app.
     app.run(debug=True)
+
 
