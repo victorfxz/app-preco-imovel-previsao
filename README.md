@@ -97,20 +97,14 @@ O dataset utilizado contém **414 registros** de transações imobiliárias reai
 - **Scikit-learn**: Machine Learning e modelagem
 - **HTML/CSS**: Interface e estilização
 
-## 🙏 Agradecimentos
-
-- **Dash Community**: Pelo excelente framework web
-- **Scikit-learn**: Pelas ferramentas de Machine Learning
-- **statso.io**: Pelo dataset utilizado no projeto
-- **Dataset de RenatoSN (Kaggle)**: https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices
-
 ---
 
 <div align="center">
 
-**Desenvolvido com ❤️ para facilitar decisões imobiliárias**
+**Desenvolvido com ❤️ para como uma possível ferramenta facilitadora de decisões imobiliárias.**
 
 </div>
+
 
 
 
