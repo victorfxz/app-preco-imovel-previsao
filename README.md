@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Dash](https://img.shields.io/badge/dash-2.0+-green.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Uma aplicação web moderna e intuitiva para previsão de preços imobiliários usando Machine Learning**
 
@@ -17,7 +16,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto oferece uma **interface web elegante e responsiva** construída com Dash que utiliza **Machine Learning** para prever preços imobiliários. O sistema emprega um modelo de **Regressão Linear** treinado com dados reais do mercado imobiliário, considerando fatores como localização, proximidade de transporte público e infraestrutura local.
+Este projeto oferece uma **interface web elegante e responsiva** construída com Dash que utiliza **Machine Learning** para prever preços imobiliários de São Paulo. O sistema emprega um modelo de **Regressão Linear** treinado com dados reais (de 2023) do mercado imobiliário, considerando fatores como localização, proximidade de transporte público e infraestrutura local.
 
 ### 🎯 Objetivo
 Fornecer estimativas precisas e rápidas de preços imobiliários para auxiliar compradores, vendedores e investidores em suas decisões.
@@ -41,7 +40,7 @@ Certifique-se de ter o Python 3.8+ instalado em seu sistema.
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/previsao-precos-imobiliarios.git
+git clone https://github.com/seu-usuario/app-preco-imovel-previsaos.git
 cd previsao-precos-imobiliarios
 ```
 
@@ -72,7 +71,7 @@ Acesse **`http://127.0.0.1:8050/`** em seu navegador para usar a aplicação.
 ## 🏗️ Estrutura do Projeto
 
 ```
-📦 previsao-precos-imobiliarios/
+📦 app-preco-imovel-previsao/
 ├── 📄 app.py                                    # Aplicação principal
 ├── 📊 real_estate.csv                          # Dataset de imóveis
 ├── 📓 previsao_de_precos_de_imoveis_com_python.ipynb  # Notebook de análise
@@ -98,41 +97,17 @@ O dataset utilizado contém **414 registros** de transações imobiliárias reai
 - **Scikit-learn**: Machine Learning e modelagem
 - **HTML/CSS**: Interface e estilização
 
-## 🎨 Interface
-
-A aplicação possui um design moderno com:
-- **Gradientes suaves** e cores harmoniosas
-- **Cards elegantes** para organização do conteúdo
-- **Ícones intuitivos** para melhor usabilidade
-- **Feedback visual** em tempo real
-- **Validação de dados** com mensagens claras
-
-## 🤝 Contribuindo
-
-Contribuições são sempre bem-vindas! Para contribuir:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## 🙏 Agradecimentos
 
 - **Dash Community**: Pelo excelente framework web
 - **Scikit-learn**: Pelas ferramentas de Machine Learning
 - **statso.io**: Pelo dataset utilizado no projeto
+- **Dataset de RenatoSN (Kaggle)**: https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices
 
 ---
 
 <div align="center">
 
-**Desenvolvido com ❤️ para facilitar decisões imobiliárias inteligentes**
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela!
+**Desenvolvido com ❤️ para facilitar decisões imobiliárias**
 
 </div>
