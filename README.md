@@ -6,7 +6,7 @@
 ![Dash](https://img.shields.io/badge/dash-2.0+-green.svg)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
 
-<p align="center"><img src="https://i.imgur.com/pDRG4N7.gif" width="650"></p>
+<p align="center"><img src="https://i.imgur.com/Als6Mof.gif" width="650"></p>
 
 [🚀 Demo](#-como-usar) • [📋 Funcionalidades](#-funcionalidades) • [⚙️ Instalação](#️-instalação) • [📊 Dados](#-sobre-os-dados)
 
@@ -111,5 +111,6 @@ O dataset utilizado contém **414 registros** de transações imobiliárias reai
 **Desenvolvido com ❤️ para facilitar decisões imobiliárias**
 
 </div>
+
 
 
