@@ -16,7 +16,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto oferece uma **interface web elegante e responsiva** construída com Dash que utiliza **Machine Learning** para prever preços imobiliários de São Paulo. O sistema emprega um modelo de **Regressão Linear** treinado com dados reais (de 2023) do mercado imobiliário, considerando fatores como localização, proximidade de transporte público e infraestrutura local.
+Este projeto oferece uma **interface web elegante e responsiva** construída com Dash que utiliza **Machine Learning** para prever preços imobiliários. O sistema emprega um modelo de **Regressão Linear** treinado com dados reais do mercado imobiliário, considerando fatores como localização, proximidade de transporte público e infraestrutura local.
 
 ### 🎯 Objetivo
 Fornecer estimativas precisas e rápidas de preços imobiliários para auxiliar compradores, vendedores e investidores em suas decisões.
@@ -111,4 +111,5 @@ O dataset utilizado contém **414 registros** de transações imobiliárias reai
 **Desenvolvido com ❤️ para facilitar decisões imobiliárias**
 
 </div>
+
 
